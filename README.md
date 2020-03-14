@@ -1,0 +1,2 @@
+# GerarArquivoOptante
+Simula REMDEB
